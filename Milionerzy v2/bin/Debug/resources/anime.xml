@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- początek komentarza
+
+W Answer1 powinna być prawidłowa odpowiedź!!!    
+szablon pustego wiersza:
+<question text="" answer1="" answer2="" answer3="" answer4="" />
+
+koniec komentarza -->
+<anime>
+	<easy>
+		<question text="Jak w języku japońskim powiemy na kolor niebieski?" answer1="ao" answer2="kuro" answer3="midori" answer4="aka" />
+		<question text="Kto jest autorem mangi One Piece?" answer1="Eichiro Oda" answer2="Masashi Kishimoto" answer3="Sawano Hiroyuki" answer4="Hiro Mashima" />
+		<question text="Które z wymienionych wydawnictw nie jest polskie?" answer1="Viz Media" answer2="Waneko" answer3="Red Sun" answer4="Hanami" />
+		<question text="Które z wymienionych anime nie było emitowane na kanale Hyper?" answer1="Gundam 00" answer2="Black Lagoon" answer3="Eureka Seven" answer4="Samurai Champloo" />
+		<question text="Które z wymienionych studiów nie zajmuje się produkcją anime?" answer1="Key" answer2="Shaft" answer3="P.A. Works" answer4="Madhouse" />
+		<question text="Która z wymienionych bajek nie powstała z ręki Toei Animation?" answer1="Inuyasha" answer2="Dragon Ball" answer3="One Piece" answer4="Toriko" />
+		<question text="Z którym studiem kojarzony jest Hayao Miyazaki?" answer1="Studio Ghibli" answer2="Studio Gokumi" answer3="J.C.Staff" answer4="Satelight" />
+		<question text="Ile odcinków zawiera pierwszy sezon anime Naruto?" answer1="220" answer2="205" answer3="199" answer4="244" />
+		<question text="Na antenie którego kanału mogliśmy oglądać Króla Szamanów?" answer1="Jetix" answer2="Cartoon Network" answer3="TCM" answer4="RTL7" />
+		<question text="Które z wymienionych anime nie opowiada o sporcie?" answer1="Welcome to the NHK" answer2="Eyeshield21" answer3="Slam Dunk" answer4="Haikyuu" />
+		<question text="Dla jakiej grupy odbiorców przeznaczone są anime Josei?" answer1="kobiet" answer2="młodych chłopców" answer3="mężczyzn" answer4="młodych dziewczyn" />
+		<question text="Twórcą jakiej znanej mangi jest Kentaro Miura?" answer1="Berserk" answer2="Death Note" answer3="Hellsing" answer4="Kokoro Connect" />
+		<question text="Które z Polskich wydawnictw znane jest z wydawania długich shounenów?" answer1="J.P.Fantastica" answer2="Studio JG" answer3="Waneko" answer4="Yumegari" />
+		<question text="Jaki poziom mocy podczas sagi sayian przekroczył Goku?" answer1="9000" answer2="7000" answer3="10000" answer4="6000" />
+		<question text="Ile w przybliżeniu wynosi liczba ludności Kraju Kwitnącej Wiśni" answer1="127 milionów" answer2="56 milionów" answer3="81 milionów" answer4="178 milionów" />
+		<question text="Który z wymienionych artystów/zespołów nie wykonywał openingu do serii Code Geass?" answer1="Uverworld" answer2="FLOW" answer3="ACCESS" answer4="Orange Range" />
+		<question text="Na którym piętrze kończy się SAO w SAO?" answer1="75" answer2="60" answer3="95" answer4="100" />
+		<question text="O jakich potworach opowiada manga Owari no Seraph?" answer1="wampirach" answer2="kosmitach" answer3="wilkołakach" answer4="demonach" />
+		<question text="W którym roku swoją emisję rozpoczęł drugi sezon anime Fairy Tail?" answer1="2014" answer2="2013" answer3="2012" answer4="2015" />
+		<question text="Na podstawie jakiego tworu powstało anime Clannad?" answer1="visual novel" answer2="manga" answer3="light novel" answer4="jest to dzieło oryginalne" />
+		<question text="Która z wymienionych nazw nie jest nazwą japońskiego systemu znaków?" answer1="karakura" answer2="katakana" answer3="kanji" answer4="hiragana" />
+		<question text="W jakich latach emitowana była nowsza wersja anime Hunter x Hunter?" answer1="2011-2014" answer2="2011-2013" answer3="2010-2014" answer4="2011-2015" />
+		<question text="W której serii słyszymy w openingu utwór Jiyuu no Tsubasa?" answer1="Shingeki no Kyojin" answer2="Hunter x Hunter" answer3="Bleach" answer4="Kuroshitsuji" />
+		<question text="Który zespół jest znany z czołówek do takich serii jak Psycho-Pass, Tokyo Ghoul czy 91 Days?" answer1="Ling Tosite Sigure" answer2="Rookiez is punk'd" answer3="Kana-Boon" answer4="supercell" />
+		<question text="Który człowiek jest odpowiedzialny za napisanie light novel Sword Art Online?" answer1="Reki Kawahara" answer2="Milk Morinaga" answer3="Shinobu Ohtaka" answer4="Rin Okumura" />
+		<question text="O jakiej grze opowiada seria Touhai Densetsu Akagi?" answer1="mahjongu" answer2="szachach" answer3="go" answer4="shogi" />
+		<question text="W którym sezonie wyemitowane zostało popularne anime One Punch Man?" answer1="Jesień 2015" answer2="Zima 2016" answer3="Wiosna 2015" answer4="Wiosna 2016" />
+		<question text="Między imieniem, a nazwiskiem protagonisty One Piece możemy znaleźć pewną literę, jaką?" answer1="D" answer2="G" answer3="Z" answer4="A" />
+		<question text="Jaki tytuł nosi wydana w polsce manga Higurashi no Naku Koro ni?" answer1="Gdy zapłaczą cykady" answer2="Noc płaczących cykad" answer3="Noc morderczych cykad" answer4="Płaczące cykady" />
+		<question text="Które studio stoi za produkcją kultowego anime Tengen Toppa Gurren Lagann?" answer1="Gainax" answer2="Trigger" answer3="Seven Arcs" answer4="Bones" />
+		<question text="Gdzie Light Yagami znajduje swój Notes Śmierci?" answer1="na trawniku" answer2="na śmietniku" answer3="na chodniku" answer4="między książkami w bibliotece" />
+		<question text="O perypetiach jakiego klubu opowiada anime K-On!?" answer1="Klubu lekkiej muzyki" answer2="Klubu muzyki klasycznej" answer3="Klubu Kulinarnego" answer4="Klubu Literackiego" />
+		<question text="Jaka jest największa istniejąca franczyza gatunku mecha?" answer1="Gundamy" answer2="Macrossy" answer3="Aquariony" answer4="Fafniry" />
+		<question text="Która z wymienionych franczyz gatunku mahou shoujo jest największa?" answer1="Precure" answer2="Fate Kaleid" answer3="Nanoha" answer4="Madoka" />
+		<question text="Jak początkowo przez wielu graczy był pogardliwie nazywany Kirito?" answer1="Beater" answer2="Looser" answer3="Cheater" answer4="Noob" />
+		<question text="Jaki jest stosunek Juvii Lockser do Graya Fullbustera?" answer1="jest w nim zakochana" answer2="nienawidzi go" answer3="jest jej obojętny" answer4="lubi go" />
+		<question text="W którym miejscu na ciele Lucy znajduje się znak gildi Fairy Tail?" answer1="na prawej ręce" answer2="na lewej ręce" answer3="na piersi" answer4="na plecach" />
+		<question text="Jakiego koloru są włosy Shirayuki, tytułowej bohaterki Akagami no Shirayuki-hime?" answer1="czerwone" answer2="różowe" answer3="blond" answer4="czarne" />
+		<question text="Jakiego koloru strój i włosy posiada Madoka Kaname?" answer1="Różowe" answer2="Czerwone" answer3="Niebieskie" answer4="Żółte" />
+		<question text="Jaka słynna marka jest reklamowana w anime Code Geass?" answer1="Pizza Hut" answer2="Mc Dondalds" answer3="KFC" answer4="Pepsi" />
+		<question text="Wyjątkowy talent głównego bohatera Haikyuu to?" answer1="Szybkość" answer2="Siła" answer3="Wzrost" answer4="Potężny serwis" />
+		<question text="Iloma mieczami włada użytkownik stylu Santoryuu?" answer1="Trzema" answer2="Jednym" answer3="Dwoma" answer4="Czterema" />
+		<question text="Jaką wioskę założył Orochimaru, jeden z głównych antagonistów Naruto?" answer1="Dźwięku" answer2="Trawy" answer3="Kamienia" answer4="Cienia" />
+		<question text="Czym włada Kankuro, bohater serii Naruto?" answer1="Marionetkami" answer2="Bronią miotaną" answer3="Piaskiem" answer4="Ziemią" />
+		<question text="Kto zabił Nanane, tytułową bohaterkę anime Ryuugajou Nanana no Maizoukin?" answer1="Nie wiadomo" answer2="Babcia głównego bohatera" answer3="Yoshikage Kira" answer4="Popełniła samobóstwo" />
+		<question text="Która z wymienionych postaci nie należy do paczki głównych bohaterek Little Witch Academia?" answer1="Diana" answer2="Akko" answer3="Sucy" answer4="Lotte" />
+		<question text="Czym walczą bohaterki anime Senki Zesshou Symphogear?" answer1="Symphogearami" answer2="Mechami" answer3="Za pomocą magii" answer4="Mieczami świetlnymi" />
+		<question text="Raising Hope i Crossing Fields, to utwory wykonywane przez?" answer1="LiSa" answer2="Lia" answer3="FLOW" answer4="YUKI" />
+		<question text="Go!!!, Sign i Days to utwory z jakich słynie który zespół?" answer1="FLOW" answer2="Miyuki Sawashiro" answer3="Mari Okada" answer4="Asian kung fu generation" />
+		<question text="Gdzie dzieje się akcja anime Kemono Friends?" answer1="w Japari Parku" answer2="na pustyni" answer3="w Japońskiej wiosce" answer4="W Himalajach" />
+		<question text="O której z wymienionych grup nie opowiada anime Uchouten Kazoku?" answer1="Pół-smokach" answer2="ludziach" answer3="Tengu" answer4="Tanuki" />
+		<question text="Jakiego koloru płomieniami posługuje się Rin Okumura?" answer1="Niebieskimi" answer2="Czerwonymi" answer3="Białymi" answer4="Nie posługuje się płomieniami" />
+		<question text="Z ilu sezonów składa się anime Kuroko no Basket?" answer1="3" answer2="2" answer3="4" answer4="5" />
+		<question text="O czym opowiada anime One Outs?" answer1="O baseballu" answer2="O prowadzeniu restauracji" answer3="O magicznej akademii" answer4="O wojnie mechów" />
+		<question text="Na jakiej mitologicznej postaci wzorowany jest Goku?" answer1="Sun Wukong" answer2="Amagami" answer3="Son Goku" answer4="Abura-sumashi" />
+		<question text="Jak nazywa się główny bohater serii Final Fantasy VII?" answer1="Cloud Strife" answer2="Red VII" answer3="Reno" answer4="Hiroshi" />
+		<question text="Jaki jest pełny japoński tytuł anime Erased?" answer1="Boku dake ga Inai Machi" answer2="Boku Machi" answer3="Boku Machi ga Inai Dachi" answer4="Boku Dachi ga Inai Machi" />
+		<question text="Co jest nietypowego w głównej bohaterce Youjo Senki?" answer1="Jest małą dziewczynką na wojnie" answer2="Jest niesamowicie wysoka" answer3="Widzi zmarłych ludzi" answer4="Jest mistrzem wielu sztuk walk" />
+		<question text="Mugen, Jin i Kasumi Fuu to główni bohaterowie którego anime?" answer1="Samurai Champloo" answer2="Sengoku Basara" answer3="Kingdom" answer4="Kamisama no Inai Nichiyoubi" />
+		<question text="Która z wymienionych postaci nie należy do uniwersum One Piece?" answer1="Rohan D. Zoro" answer2="Monkey D. Luffy" answer3="Portgas D. Ace" answer4="Trafalgar D. Water Law" />
+		<question text="Jak nazywane są Widmowe Fale, moce używane przez bohaterów JoJo's Bizarre Adventure?" answer1="Standami" answer2="Widmami" answer3="Personami" answer4="Aniołami" />
+		<question text="Co umożliwa bohaterom Koutetsujou no Kabaneri w miarę bezpieczne podróżowanie?" answer1="Wielkie, opancerzone pociągi" answer2="Podziemne tunele" answer3="Potężne floty okrętów bojowych" answer4="Ogromne mechy" />
+		<question text="Fate/kaleid liner Prisma Illya 2wei Herz! to który z kolei sezon franczyzy?" answer1="trzeci" answer2="drugi" answer3="czwarty" answer4="spin off drugiego" />
+		<question text="W jaki sposób akcja z anime Fate/Zero odnosi się do Fate/Stay Night?" answer1="Dzieje się 10 lat przed" answer2="Dzieje się 10 lat po" answer3="Dzieją się równolegle" answer4="Nie ma żadnego powiązania" />
+		<question text="Ile subskrybcji ma Buki, największy polski mangowy youtuber?" answer1="Około 75 tysięcy" answer2="Ponad 100 tysięcy" answer3="Około 20 tysięcy" answer4="Około 41 tysięcy" />
+		<question text="Ma różowe włosy, szal na szyi i ognisty temperament. Kogo opisuje to zdanie?" answer1="Protagonistę Fairy Tail" answer2="Protagonistę One Piece" answer3="Protagoniste D-Gray Mana" answer4="Antagonistę Soul Eatera" />
+	</easy>
+	<medium>
+        <question text="Kto skomponował muzykę do serii Naruto?" answer1="Masuda Toshio" answer2="Yuki Takahashi" answer3="Kiichirō Toyoda" answer4="Natsumi Yukami" />
+        <question text="Kapitanem jakiego klubu jest Juri Arisugawa, jedna z bohaterek serii Kakumei Shoujo Utena?" answer1="Klubu szermierki" answer2="Klubu literackiego" answer3="Klubu muzycznego" answer4="Klubu sztuki" />
+        <question text="Na czyją cześć Hakuoro, bohater serii Utawarerumono nazwał przejęty kraj?" answer1="Zmarłej głowy wioski" answer2="Zmarłej matki" answer3="Zmarłej siostry" answer4="Na swoją cześć" />
+        <question text="Kto jest autorem light novel Log Horizon?" answer1="Mamare Touno" answer2="Kazuhiro Hara" answer3="Nishiwara Haku" answer4="Yuzuha Inori" />
+        <question text="Do którego korpusu treningowego należeli bohaterowie serii Attack on Titan?" answer1="104" answer2="101" answer3="103" answer4="102" />
+        <question text="Który z murów w serii Atack on Titan znajdował się pomiędzy pozostałymi?" answer1="Rose" answer2="Maria" answer3="Sina" answer4="Mira" />
+        <question text="W którym z dystryktów żył Eren wraz z rodziną i Mikasą przed atakiem kolosalnego tytana?" answer1="Shiganshina" answer2="Trost" answer3="Minagawa" answer4="Stohess" />
+        <question text="Jaką cechą na boisku wyróżnia się Midorima, jeden z bohaterów Kuroko no Basket?" answer1="Celnością" answer2="Szybkością" answer3="Siłą fizyczną" answer4="Niesamowitym wzrokiem" />
+        <question text="Na heterochormię jakich kolorów cierpi jeden z bohaterów Kuroko no Basket, Akashi?" answer1="Żóty i czerwony" answer2="Żółty i niebieski" answer3="Niebieski i czerwony" answer4="Czerwony i fioletowy" />
+        <question text="Jak ma na imię Polnareff, użytkownik Silver Chariot z anime Jojo's Bizzare Adventure?" answer1="Jean Pierre" answer2="Louise Martin" answer3="Charles Eric" answer4="Dominique Edmund" />
+        <question text="Jak nazywa się stand Iggiego, postaci z Jojo's Bizzare Adventure?" answer1="The Fool" answer2="Justice" answer3="The Sun" answer4="The Moon" />
+        <question text="Podczas ostatniej walki trzeciego partu Jojo Dio rzuca w swego oponenta pewnym dużym i cięzkim przedmiotem, czym był owy przedmiot?" answer1="Walcem drogowym" answer2="Budką telefoniczną" answer3="Cysterną" answer4="Ogromnym głazem" />
+        <question text="Który numer jako użytkowniczka pamiętnika miała Yuno Gasai z Mirai Nikki?" answer1="2" answer2="3" answer3="4" answer4="5" />
+        <question text="Którego dnia tygodnia nienawidzi Mashiro, bohaterka anime Mikakunin de Shinkoukei?" answer1="Niedzieli" answer2="Poniedziałku" answer3="Środy" answer4="Wtorku" />
+        <question text="Jaka inna równie genialna seria autora mangi Mirai Nikki dostała swoją serię TV?" answer1="Big Order" answer2="Joshiraku" answer3="Vivid Strike" answer4="Urara Meirochu" />
+        <question text="Kim w branży anime i mangi jest tzw. Freelancer?" answer1="Osobą nie związaną z konkretnym studiem" answer2="Reżyserem z wolną ręką do adaptowania konkretnego dzieła" answer3="Animatorem pracującym nad własnym projektem" answer4="Mangaką publikującym dzieło na własną rękę" />
+        <question text="Jaki numer nosi organizacja dla której pracują idolki z pierwszego sezonu The iDOLM@STER?" answer1="765" answer2="715" answer3="201" answer4="202" />
+        <question text="Z ilu idolek składa się organizacja pierwszej serii The iDOLM@STER?" answer1="13" answer2="12" answer3="11" answer4="14" />
+        <question text="Która z cech nie opisuje Miki Hoshii, bohaterki pierwszej serii The iDOLM@STER?" answer1="Posiada bardzo mały biust" answer2="Zasypia w losowych miejscach" answer3="Podrywa producenta" answer4="Ma niesamowitą pamięć" />
+        <question text="Jak nazywał się miecz, który posiadła siostra głównego bohatera Katanagatari?" answer1="Akuto Bita" answer2="Zokuto Yoroi" answer3="Hakuto Hari" answer4="Sento Tsurugi" />
+        <question text="Co było nietypowego w Ento Juu, jednym z mieczy w serii Katanagatari?" answer1="Był parą rewolwerów" answer2="Był niesamowicie kruchy" answer3="Był mechaniczną lalką" answer4="Był zbroją" />
+        <question text="Jaką bronią posługiwał się Natsumura Kusaribe, bohater serii Zetsuen no Tempest?" answer1="Włócznią" answer2="Pistoletem" answer3="Kataną" answer4="Nie posługiwał się żadną" />
+        <question text="Jaki rozmiar piersi posiada Tohru, smokojówka pani Kobayashi?" answer1="D" answer2="E" answer3="B" answer4="C" />
+        <question text="Z jaką grą wyraźnie nie radzi sobie Fafnir, jeden ze znajomych pani Kobayashi i jej smokojówki?" answer1="Dark Souls" answer2="Soul Calibur" answer3="Gothic" answer4="Final Fantasy XIII" />
+        <question text="Jaką tajemnice ukrywał Yoshino, bohater Zetsuen no Tempest, przed swoim najlepszym przyjacielem?" answer1="Fakt, że spotykał się z jego siostrą" answer2="Bycie gejem" answer3="Fakt, że to on zabił jego siostrę" answer4="Swoją chorobę" />
+        <question text="Na jakim instrumencie gra Kousaka Reina, najlepsza przyjaciółka głównej bohaterki Hibike Euphonium?" answer1="Trąbce" answer2="Kontrabasie" answer3="Tubie" answer4="Euphonium" />
+        <question text="Ile lat przed wydarzeniami z anime zmarła żona Takiego, nauczyciela i dyrygenta z serii Hibike Euphonium?" answer1="5" answer2="3" answer3="rok" answer4="7" />
+        <question text="Jak nazywa się szkoła, do której uczęszczają bohaterki anime Hibike Euphonium?" answer1="Kitauji" answer2="Rikka" answer3="Minami" answer4="Mitahara" />
+        <question text="Kim jest Albrecht, postać występująca w Musaigen no Phantom World?" answer1="Pluszowym misiem" answer2="Psem" answer3="Przyjacielem głównego bohatera" answer4="Postacią z gry, w którą grywa główny bohater" />
+        <question text="W jaki sposób Enigma, antagonistka z Musaigen no Phantom World skradła pocałunek Haruhiko?" answer1="Zamienając się w jego matkę" answer2="Wkradając się do jego pokoju podczas snu" answer3="Podczas ustawionej randki" answer4="Pocałowała wcześniej unieruchomionego bohatera" />
+        <question text="Za kogo podaje się Yoshiko Tsushima, bohaterka serii Love Live! Sunshine!!?" answer1="za upadłego anioła" answer2="za królową piekieł" answer3="za podróżnika w czasie" answer4="za przybysza z kosmosu" />
+        <question text="Jaką konwencje miało GGO, jedna z gier przedstawionych w drugim sezonie Sword Art Online?" answer1="Post apokaliptyczny świat" answer2="Fantasy" answer3="Cyberpunk" answer4="Alternatywna rzeczywistość" />
+        <question text="Co miało być nagrodą za podbicie Drzewa Świata w Alpheim Online?" answer1="Narodziny nowej rasy" answer2="Przejęcie kontroli nad miastem Arun" answer3="Dodatkowy, epicki quest" answer4="Legendarny miecz Excalibur" />
+        <question text="Kto jest wykonawcą openingu Schwarzesmarken?" answer1="fripSide" answer2="Minori Inase" answer3="Angela" answer4="Nagi Yanagi" />
+        <question text="Jakim numerem oznaczony był oddział Schwarzesmarken?" answer1="7" answer2="113" answer3="666" answer4="210" />
+        <question text="Kto jako pierwszy dowiedział się, że Jun z Natsu no Arashi to dziewczyna?" answer1="Kaja" answer2="Arashi" answer3="Yasaka" answer4="Właścicielka sklepu" />
+        <question text="Czego bardzo często zapomina Yayoi, bohaterka Natsu no Arashi?" answer1="Tytułów książek" answer2="Imion" answer3="Zjeść śniadania" answer4="Adresu własnego domu" />
+        <question text="Jaki tytuł nosi Himemiya Anthy z anime Kakumei Shoujo Utena?" answer1="Różana narzeczona" answer2="Różana panna" answer3="Różana dziewica" answer4="Wojowniczka Róży" />
+        <question text="Ilu tytułowych Shugo Chara posiada Hinamori Amu?" answer1="4" answer2="6" answer3="9" answer4="12" />
+        <question text="Kto wykonuje openingi i podkłada głos głównej bohaterce Akagami no Shirayuki-hime?" answer1="Saori Hayami" answer2="Kana Hanazawa" answer3="Rie Kugimiya" answer4="Sawashiro Miyuki" />
+        <question text="Z jakiego kraju w anime Akagami no Shirayuki-hime ucieka główna bohaterka?" answer1="Tanbarun" answer2="Clarines" answer3="Wistalia" answer4="Shenazard" />
+        <question text="Jakim stworzeniem jest Tatebayashi Mina z anime Yozakura Quartet: Hana no Uta?" answer1="Pół wampirem pół syreną" answer2="Pół wampirem pół człowiekiem" answer3="Pół syreną pół człowiekiem" answer4="Ogrem" />
+        <question text="Jak nazywa się specjalna umiejętność Nanami Ao z anime Yozakura Quartet Hana no Uta?" answer1="Satelite" answer2="Transmision" answer3="Flash" answer4="Mind Control" />
+        <question text="Na jaką odległość nie może się oddalić Klejnot Duszy od ciała czarodziejki w anime Mahou Shoujo Madoka Magica?" answer1="100 metrów" answer2="50 metrów" answer3="150 metrów" answer4="200 metrów" />
+        <question text="Jak nazwę nosi akademia, do której uczęszczają bohaterowie serii Code Geass?" answer1="Ashford" answer2="Ruthford" answer3="Tefold" answer4="Wrexham" />
+		<question text="Jak działa Shadow Fin, jeden z artefaktów z Kolekcji Nanany?" answer1="Umożliwa poruszanie się w cieniach" answer2="Kradnie cienie" answer3="Kontroluje cienie" answer4="Umożliwia bycie niewidzialnym w cieniu" />
+		<question text="Jak nazywa się planeta, na której dzieją się wydarzenia serii Comet Lucifer?" answer1="Gift" answer2="Gaia" answer3="Indigo" answer4="Alfa" />
+		<question text="Kto wykonuje opening do serii Comet Lucifer?" answer1="fhana" answer2="ALI PROJECT" answer3="Maaya Sakamoto" answer4="ClariS" />
+		<question text="Na czele jakiej organizacji stoi ojciec Chieri z AKB0048?" answer1="Zodiac Corporation" answer2="DES" answer3="WOTA" answer4="AKB0048" />
+		<question text="Do której generacji należą Chieri Sono i Nagisa Motomiya, główne boahterki AKB0048?" answer1="77" answer2="13" answer3="29" answer4="48" />
+		<question text="Franczyza Macross nie posiada anime o jakim tytule?" answer1="Macross 2" answer2="Macross F" answer3="Macross Zero" answer4="Macross Delta" />
+		<question text="Jak nazywa się różdżka głównej bohaterki Heartcatch Precure wykorzystwana do pieczętowania przeciwników?" answer1="Blossom tact" answer2="Cure Blossom" answer3="Flower Forte" answer4="Flower Gift" />
+		<question text="Ile odcinków posiada anime Yuu Yuu Hakusho?" answer1="112" answer2="101" answer3="99" answer4="93" />
+		<question text="Choir Jail i Beat your Heart to utwory wykonywane przez?" answer1="Konomi Suzuki" answer2="Minami Kuribayashi" answer3="Saori Hayami" answer4="ZAQ" />
+		<question text="Tiny Lamp i Aozora no Rhapsody to utwory wykonywane przez?" answer1="fhana" answer2="Yuuki Aoi" answer3="TM Revolution" answer4="Kurosaki Maon" />
+		<question text="Czyja współpraca zaowocowała dwoma openingami do serii Kakumeiki Valvrave?" answer1="T.M.Revolution i Nana Mizuki" answer2="T.M.Revolution i Faylan" answer3="T.M.Revolution i ZAQ" answer4="T.M.Revolution i little by little" />
+		<question text="Mahou Shoujo Lyrical Nanoha Vivid to która z kolei odsłona serii?" answer1="Czwarta" answer2="Trzecia" answer3="Piąta" answer4="Druga" />
+		<question text="Które studio zajęło się stworzeniem anime o tytule High School Fleet?" answer1="Production IMS" answer2="Xebec" answer3="8bit" answer4="Doga Kobo" />
+		<question text="Jaki pseudonim nosił Messer Ihlefeld, bohater serii Macross Delta?" answer1="Grim Reaper" answer2="Iron Shield" answer3="Destroyer" answer4="Lightning" />
+		<question text="Która z postaci nie należy do jednostki Walkure?" answer1="Mirage Jenius" answer2="Kaname Buccaneer" answer3="Makina Nakajima" answer4="Reina Prowler" />
+		<question text="Jak nazywa się Symphogear należący do Kiriki Akatsuki?" answer1="Igalima" answer2="Shul Shagana" answer3="Ame no Habakiri" answer4="Ichival" />
+		<question text="Jak ma na imię Hakuryuu, jeden z towarzyszy Akatsuki no Yony?" answer1="Kija" answer2="Shin-Ah" answer3="Jae-Ha" answer4="Zeno" />
+		<question text="W które urodziny Akatsuki no Yony zostaje zabity jej ojciec?" answer1="16" answer2="13" answer3="14" answer4="18" />
+		<question text="Boginią którego żywiołu jest Kukuri, postać z anime Tsugumomo?" answer1="Wody" answer2="Ognia" answer3="Powietrza" answer4="Błyskawic" />
+		<question text="Kiedy w Czerwonego Smoka zamienia się Nina, bohaterka drugiego sezonu Shingeki no Bahamut? " answer1="Gdy się podnieci" answer2="Gdy zostanie zraniona" answer3="Gdy zetknie się z wodą" answer4="Gdy straci przytomność" />
+		<question text="Ile punktów zbiera Nina podczas endingu Shingeki no Bahamut: Virgin Soul?" answer1="200" answer2="400" answer3="600" answer4="1000" />
+		<question text="Jak się nazywa light novel napisana przez głównego bohatera Eromanga-sensei?" answer1="The Silver Wolf's Reincarnation" answer2="Awakening of the Dead Lord" answer3="Magical Academy of Black Vampire" answer4="Legend of Blue Dungeon" />
+		<question text="Jak naprawdę nazywa się Christa, bohaterka Shingeki no Kyojin?" answer1="Historia" answer2="Beatrice" answer3="Emilia" answer4="Rosalia" />
+		<question text="Jak się nazywa siostra Boruto?" answer1="Himawari" answer2="Ami" answer3="Namida" answer4="Moegi" />
+		<question text="Która z dziewczyn nie należy do Pięciu Mieczy z anime Busou Shoujo Machiavellianism?" answer1="Nono Mozunono" answer2="Rin Onigawara" answer3="Warabi Hanasaka" answer4="Kikakujou Mary" />
+		<question text="Jaki pseudonim nosi Michiru Matsushima z Grisaii?" answer1="Chiruchiru" answer2="Michi" answer3="Matsuchiru" answer4="Geniusz" />
+		<question text="Który z braci z Uchouten Kazoku jest najmłodszy?" answer1="Yashirou" answer2="Yaichirou" answer3="Yajirou" answer4="Yasaburou" />
+		<question text="Jak niegdyś nazywała się Benten, bohaterka anime Uchoten Kazoku?" answer1="Satomi Suzuki" answer2="Sakaki Sayuri" answer3="Sonami Suyama" answer4="Sukawara Akira" />
+		<question text="Ile procent społeczeństwa posiada nadprzyrodzone zdolności w Boku Hero Academia?" answer1="80" answer2="85" answer3="75" answer4="70" />
+		<question text="Jak się nazywa quirk Fumikage Tokoyamiego z Boku Hero Academia?" answer1="Dark Shadow" answer2="Black Shadow" answer3="Dark Crow" answer4="6" />
+		<question text="Jak nazywany jest Amaimon, bohater serii Ao no Exorcist?" answer1="Królem Ziemi" answer2="Szatanem" answer3="Faustem" answer4="Piekielnym księciem" />
+		<question text="Heikousen, wykonywany przez Sayuri jest endingiem?" answer1="Kuzu no Honkai" answer2="Mob Psycho 100" answer3="Comet Lucifer" answer4="Boku Dake ga Inai Machi" />
+		<question text="Jak nazywa się antagonista serii Final Fantasy VII?" answer1="Sephiroth" answer2="Zack Fair" answer3="Vincent Valentine" answer4="Cid Highwind" />
+		<question text="Która z dziewczyn nie jest członkiem Girls Dead Monster?" answer1="Shiina" answer2="Iwasawa" answer3="Hisako" answer4="Yusa" />
+		<question text="Ile wersji Hand Sonic Tachibana Kanade pokazuje nam w anime Angel Beats?" answer1="5" answer2="6" answer3="8" answer4="3" />
+		<question text="Julis-Alexia von Riessfeld z Gakusen Toshi Asterisk specjalizuje się w magii?" answer1="Ognia" answer2="Ziemii" answer3="Wody" answer4="Ciemności" />
+		<question text="Która z gier nie pojawiła się w Kaijim?" answer1="Blackjack" answer2="Emperor Card" answer3="Chinchiron" answer4="Jan-ken-pon" />
+		<question text="Kto podkłada głos Tanyi Degurechaff?" answer1="Yuuki Aoi" answer2="Saori Hayami" answer3="Narumi Hikari" answer4="Shinichiro Miki" />
+		<question text="W którym z Macrossów, bohaterowie mierzą się z tajemniczymi istotami zwanymi Genjami?" answer1="W żadnym" answer2="Macross Plus" answer3="Macross Delta" answer4="Macross F" />
+		<question text="Założycielem której z wiosek był Orochimaru?" answer1="Otogakure" answer2="Amegakure" answer3="Iwagakure" answer4="Konohagakure" />
+	</medium>
+	<hard>
+        <question text="Kim był Kanara Azekura, jeden z epizodycznych bohaterów Katanagatari?" answer1="Piratem" answer2="Głową świątyni" answer3="Najsilniejszym z szermierzy" answer4="Członkiem oddziału Maniwa" />
+        <question text="Którego z wymienionych zwierząt nie oswoiła Ganaha Hibiki, jedna z idolek z serii The IDOLM@STER?" answer1="Lisa" answer2="Aligatora" answer3="Latającej wiewiórki" answer4="węża" />
+        <question text="Jak przedstawia siebie Evangeline Yamamoto, postać z serii Zetsuen no Tempest?" answer1="jako bezrobotna" answer2="jako anarchistka" answer3="jako dziennikarka" answer4="jako singielka" />
+        <question text="Sapphire, bohaterka serii Hibike Euphonium posiada bardzo nietypowego pupila, jakie to zwierzę?" answer1="Iguana" answer2="Żmija" answer3="Pająk" answer4="Szczur" />
+        <question text="Jakiego koloru strój kąpielowy w odcinku plażowym posiadała Kumiko z Hibike Euphonium?" answer1="Czerwony" answer2="Niebieski" answer3="Czarny" answer4="Zielony" />
+        <question text="Ile ru whodzi w skład pełnego imienia Ruru z Musaigen no Phantom World?" answer1="9" answer2="11" answer3="12" answer4="15" />
+        <question text="Które z podanych zdań z Jugemu, sztuki Rakugo jest napisane błędnie?" answer1="Suigyomatsu Furaimatsu Unraimatsu" answer2="Paipopaipo Paipo no shuringan" answer3="Goko no surikire" answer4="Chokyumei no Chosuke" />
+        <question text="Która z bohaterek Love Live! Sunshine!! często kończy swoje zdania dodając zura?" answer1="Kunikida Hanamaru" answer2="Kurosawa Ruby" answer3="Takami Chika" answer4="Ohara Mari" />
+        <question text="Dowódcą jakiej gildii w świecie SAO był gracz o nicku Keita?" answer1="Czarnych Kotów Pełni Księżyca" answer2="Furinkazan" answer3="Titan Hand" answer4="Sojuszu Boskiego Smoka" />
+        <question text="Jakiej rasy w ALO jest avatar Konno Yuuki?" answer1="Imp" answer2="Cait Sith" answer3="Sylph" answer4="Spriggan" />
+        <question text="Jak miał na imię ojciec Katii Waldheim, jednej z głównych bohaterek anime Schwarzezmarken?" answer1="Alfred Strachwitz" answer2="Richard Hermann" answer3="Siegfried Waldheim" answer4="Theodor Eberbach" />
+        <question text="Kim jest Nana Kanako w serii Natsu no Arashi?" answer1="Nie ma takiej postaci" answer2="Stałym klientem kawiarni" answer3="Matką głównego bohatera" answer4="Przyjaciółką Ara z dzieciństwashi" />
+        <question text="W którym roku powstała animowana adaptacja Revolutionary Girl Utena?" answer1="1997" answer2="1999" answer3="1998" answer4="1995" /> 
+        <question text="Czyim Shugo Chara jest Yoru?" answer1="Ikuto" answer2="Utau" answer3="Nagihiko" answer4="Amu" /> 
+        <question text="Jak nazywa się transformacja Amu i Ran z anime Shugo Chara?" answer1="Amulet Heart" answer2="Amulet Spade" answer3="Amulet Clover" answer4="Amulet Diamond" />
+        <question text="Która z wymienionych postaci z uniwersum Yozakury Quartet nie jest bogiem?" answer1="Zakuro Kurumaki" answer2="Yūhi Shinatsuhiko" answer3="Yae Shinatsuhiko" answer4="Tomoe" />
+        <question text="Której z wymienionych broni nie użyła Akemi Homura podczas wielkiej bitwy z Walpurgisnacht?" answer1="Granatów" answer2="Ręcznej wyrzutni rakiet" answer3="Karabinu maszynowego" answer4="Bomb z detonatorem" />
+        <question text="Która w kolejce do tronu jest Nunnaly vi Britannia?" answer1="87" answer2="53" answer3="16" answer4="66" />
+        <question text="Jak się nazywa starożytny bóg odkryty w serii Utawarerumono?" answer1="Witsuarunemitea" answer2="Witsamanuetta" answer3="Witsuarana" answer4="Witsukami" />
+        <question text="Kim jest Sakaki, jeden z pobocznych bohaterów Akagami no Shirayuki-hime?" answer1="Doradcą i strażnikiem Rajiego" answer2="Łotrem próbującym porwać Shirayuki" answer3="Strażnikiem w zamku Clarines" answer4="Starym znajomym Shirayuki" />
+        <question text="Którym z siedmiu słów w Little Witch Acedemia jest Arae Aryrha?" answer1="Trzecim" answer2="Drugim" answer3="Czwartym" answer4="Piątym" />
+        <question text="Sosomme Tidiare to inkantacja jakiej magii w uniwersum Little Witch Academia?" answer1="Podstaw białej magii" answer2="Magii latania" answer3="Zaawansowanej magii transformacji" answer4="Magii rewitalizacji" />
+        <question text="Która z cech nie opisuje Vivio, głównej bohaterki Mahou Shoujo Lyrical Nanoha Vivid?" answer1="Jej urządzenie ma formę tygryska" answer2="Ma heterochromie" answer3="Potrafi zmieniać się w dorosłą wersję" answer4="Jest niesamowicie silna" />
+        <question text="Z kim w turnieju przegrywa Corona z Mahou Shoujo Lyrcial Nanoha Vivid?" answer1="Einhart" answer2="Rio" answer3="Nanohą" answer4="Vivio" />
+		<question text="Jaki tytuł niegdyś nosiła Katagiri Tsubasa, producentka i menadżerka AKB0048?" answer1="Siódmej Mariko Shinody" answer2="Trzynastej Atsuko Maedy" answer3="Piątej Minami Takahashi" answer4="Jedenastej Tomomi Itano" />
+		<question text="Jaką piosenkę śpiewają bohaterki Symphogeara podczas ratowania spadającego statku kosmicznego?" answer1="Radiant Force" answer2="Bayonet Charge" answer3="Just loving edge" answer4="Glorious Break" />
+		<question text="Jak nazywa się starsza siostra Eriki, bohaterki Heartcatch Precure?" answer1="Momoka" answer2="Kurumi" answer3="Alice" answer4="Yukina" />
+		<question text="Na bohaterów Yuu Yuu Hakusho czekały Cztery Bestie do pokonania, którą z nich był Byakko?" answer1="Drugą" answer2="Pierwszą" answer3="Trzecią" answer4="Czwartą" />
+		<question text="Jaką rolę na statku w High School Fleet pełniła Kaburagi Minami?" answer1="Medyka" answer2="Nawigatora" answer3="Szefa ekipy naprawczej" answer4="Szefa artylerii" />
+		<question text="Jaka piosenka jest endingiem pierwszego odcinka Macrossa Delty?" answer1="Ikenai Borderline" answer2="LOVE! THUNDER GROW" answer3="Ichido dake no Koi nara" answer4="Hametsu no Junjou" />
+		<question text="Która z aktorek głosowych nie podkłada głosu użytkowniczce Symphogeara?" answer1="Michiyo Murase" answer2="Miyuki Sawashiro" answer3="Yuka Iguchi" answer4="Yoshino Nanjou" />
+		<question text="Na terenie którego plemienia znajduje się stolica królestwa Kouka z Akatsuki no Yona?" answer1="Plemienia nieba" answer2="Plemienia ognia" answer3="Plemienia wiatru" answer4="Plemienia ziemii" />
+		<question text="Który z mitycznych stworów został przywołany przez Osamu z anime Tsugumomo, aby pokonać Minotaura?" answer1="Flare Dragon" answer2="Red Dragon" answer3="Blue-Eyed Silver Dragon" answer4="One-Winged Dragon" />
+		<question text="Ile punktów zbiera Nina podczas endingu Shingeki no Bahamut Virgin Soul?" answer1="200" answer2="400" answer3="600" answer4="1000" />
+		<question text="Jak nazwała swój dom Elf Yamada, bohaterka Eromanga Sensei?" answer1="Kryształowy Pałac" answer2="Dwór Królowej" answer3="Willa de la tue" answer4="Księżycowy Zamek" />
+		<question text="Której z postaci w Shingeki no Kyojin głosu użycza Yoshimasa Hosoya?" answer1="Reiner" answer2="Armin" answer3="Levi" answer4="Conny" />
+		<question text="Kto jest matką Chouchou, córki Choujiego z Boruto?" answer1="Karui" answer2="Samui" answer3="Omoi" answer4="Ayame" />
+		<question text="W które miejsce Nomura, bohater Busou Shoujo Machiavellianism, uderzył Rin swoim Spirit Bulletem?" answer1="Prawy bok" answer2="Lewą pierś" answer3="Plecy" answer4="Prawe udo" />
+		<question text="O czym śpiewała Crested Ibis, postać z Kemono Friends na szczycie słupa?" answer1="O bułeczce" answer2="O deszczu" answer3="O kawiarni" answer4="O pingwinach" />
+		<question text="Jakim kodem indentyfikowany był Kazami Yuuji, główny bohater Grisai?" answer1="9029" answer2="1377" answer3="6260" answer4="1717" />
+		<question text="Ile koszul wyprasował Nidaime z drugiego sezonu Uchouten Kazoku?" answer1="9" answer2="8" answer3="7" answer4="6" />
+		<question text="Jak nazywa się Recovery Girl, postać stawiająca na nogi uczniów Boku no Hero Academi?" answer1="Chiyo Shuuzenji" answer2="Chihaya Asami" answer3="Sono Koede" answer4="Minoru Nomura" />
+		<question text="Jak nazywają się chowańce Izumo Kamiki z Ao no Exorcist?" answer1="Mike i Uke" answer2="Yoru i Asa" answer3="Sora i Umi" answer4="Hina i Nina" />
+		<question text="Noriko Kamomebata, postać z anime Kuzu no Honkai, nie lubi swojego imienia. Jak woli być nazywana?" answer1="Moka" answer2="Nomi" answer3="Narumi" answer4="Kanata" />
+		<question text="Gdzie pracowała Sachiko Fujinuma z Erased, gdy jej syn był w śpiączce?" answer1="W konbini" answer2="W szpitalu" answer3="Sprzątała biurowce" answer4="W aptece" />
+		<question text="Którego dnia urodziny ma Hinazuki Kayo, ważna postać z anime Erased?" answer1="2 marca" answer2="1 marca" answer3="3 marca" answer4="28 lutego" />
+		<question text="Którego z wymienionych dzieci nie było na liście zamordowanych w Erased?" answer1="Kenya Kobayashi" answer2="Aya Nakanishi" answer3="Hiromi Sugita" answer4="Hinazuki Kayo" />
+		<question text="Testu z którego przedmiotu nie zdawali bohaterowie Angel Beats?" answer1="Japoński" answer2="Historia Świata" answer3="Fizyka" answer4="Angielski" />
+		<question text="Jak miała na imie siostra Otonashiego Yuzuru?" answer1="Hatsune" answer2="Hibari" answer3="Chisato" answer4="Sakura" />
+		<question text="Jaki stopień kombatybilności posiada Ayato, protagonista Gakusen Toshi Asterisk z mieczem Ser Veresta?" answer1="97%" answer2="95%" answer3="99%" answer4="100%" />
+		<question text="Który z wersów nie pasuje do refrenu piosenki Lonely Feather, śpiewanej w drugim sezonie Gakusen Toshi Asterisk?" answer1="Looking up to the starry sky" answer2="Dancing like a lonely feather" answer3="In the windy weather" answer4="Looking for a beacon and some clarity" />
+		<question text="Utwór o tytule Birth śpiewany przez Eri Kitamurę jest czołówką której serii?" answer1="Kamisama no Inai Nichiyoubi" answer2="Higashi no Eden" answer3="Kamisama no Memochou" answer4="Hyouka" />
+	</hard>
+</anime>
